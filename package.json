@@ -5,10 +5,10 @@
   "homepage": "https://tomosterlund.github.io/qalendar/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomosterlund/qalendar"
+    "url": "https://github.com/kpebron/qalendar"
   },
   "bugs": {
-    "url": "https://github.com/tomosterlund/qalendar/issues"
+    "url": "https://github.com/kpebron/qalendar/issues"
   },
   "author": {
     "name": "Tom Osterlund"
