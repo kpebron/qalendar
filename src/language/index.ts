@@ -18,6 +18,7 @@ export default {
       if (locale.startsWith('fr')) locale = 'fr-FR';
       if (locale.startsWith('th')) locale = 'th-TH';
       if (locale.startsWith('nl')) locale = 'nl-NL';
+      if (locale.startsWith('jp')) locale = 'jp-JA';
 
       return languageKeys[locale]
         ? languageKeys[locale]
